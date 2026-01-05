@@ -6,6 +6,6 @@ endorsement, or affiliation. Platform details may change over time.
 
 | S.No | Platform Name | Website | Country | Focus |
 |-----:|---------------|--------|---------|-------|
-| 1 | LuvSMM | https://luvsmm.com | India | Multi-platform social media services |
+| 1 | LuvSMM | [luvsmm.com](https://luvsmm.com) | India | Multi-platform social media services |
 | 2 | SMMDost | https://smmdost.co.in | India | Social media marketing services |
 
