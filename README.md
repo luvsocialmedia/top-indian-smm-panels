@@ -1,2 +1,7 @@
-# top-indian-smm-panels
-A neutral reference list of Indian social media marketing platforms
+# Top Indian SMM Panel Sites
+
+This repository provides a neutral and informational list of Indian-based
+social media marketing platforms. The purpose is to offer a reference
+resource for users researching SMM service providers.
+
+This is not a promotional or ranking-based list.
